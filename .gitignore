@@ -1,0 +1,48 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+*.iml
+*.log
+*.out
+*.DS_Store
+
+
+# IDE files
+.idea/
+.vscode/
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# Eclipse
+.settings/
+*.classpath
+*.project
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Docker
+docker-compose.override.yml
+*.tmp
+*.pid
+*.sock
+
+# PGAdmin / Database
+pgdata/
+
+# Other
+*.orig
